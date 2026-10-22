@@ -1,0 +1,6 @@
+************* Module billing_system
+billing_system.py:147:11: I1101: Module 'lxml.etree' has no 'fromstring' member, but source is unavailable. Consider adding this module to extension-pkg-allow-list if you want to perform analysis based on run-time introspection of living objects. (c-extension-no-member)
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+

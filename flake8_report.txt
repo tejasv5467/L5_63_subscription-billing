@@ -1,0 +1,8 @@
+billing_system.py:35:1: E302 expected 2 blank lines, found 1
+billing_system.py:39:1: E302 expected 2 blank lines, found 1
+billing_system.py:55:1: E302 expected 2 blank lines, found 1
+billing_system.py:116:5: E122 continuation line missing indentation or outdented
+billing_system.py:117:5: E122 continuation line missing indentation or outdented
+billing_system.py:118:5: E122 continuation line missing indentation or outdented
+billing_system.py:119:1: E122 continuation line missing indentation or outdented
+billing_system.py:121:1: E302 expected 2 blank lines, found 1
